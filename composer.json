@@ -1,0 +1,21 @@
+{
+  "name": "prokopets/urltester",
+  "description": "Test composer package",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vladimir Prokopets",
+      "email": "optimist0706@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "guzzlehttp/guzzle": "~5.0",
+  },
+  "require-dev": {
+    "phpunit": ">=4.8.9"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}

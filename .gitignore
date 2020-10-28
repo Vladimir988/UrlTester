@@ -1,0 +1,16 @@
+.idea/
+composer.phar
+vendor/
+**/vendor
+
+*.inl
+*.ipr
+*.ivs
+
+/out/
+
+.idea_modules/
+
+atlassian-ide-plugin.xml
+
+tests/
