@@ -13,7 +13,7 @@
     "guzzlehttp/guzzle": "~5.0"
   },
   "require-dev": {
-    "phpunit": "4.8.9"
+    "phpunit/phpunit": "4.8.9"
   },
   "autoload": {
     "classmap": ["src"]
